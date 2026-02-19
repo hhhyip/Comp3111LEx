@@ -1,2 +1,4 @@
 readme file
-![Alt text](img.png)
+photo here
+
+![Photo](img.png)
